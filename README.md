@@ -12,7 +12,7 @@
 
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm **Arsh Raj**, a **Computer Science student**, **Java Developer**, and **Machine Learning enthusiast** from **Jharkhand, India 🇮🇳**.
+I'm **Arsh Raj**, a **Computer Science student**, **Java Developer**, and **Machine Learning enthusiast** from ** India 🇮🇳**.
 
 I am passionate about **software development**, **problem solving**, and **building real-world applications**. I enjoy writing clean, efficient code and continuously improving my skills through projects, competitive programming, and learning new technologies.
 
