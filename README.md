@@ -42,18 +42,54 @@ I love building **real-world applications**, solving **DSA problems**, and writi
 
 ## 📊 GitHub Stats
 
-<table>
-<tr>
-<td width="55%">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=arshraj1020&theme=github_dark&include_all_commits=true&count_private=true" />
+</p>
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=arshraj1020&theme=github-dark&hide_border=true" />
+</p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshraj1020&theme=github_dark&layout=compact" />
-</td>
-<td width="45%" align="center">
-<img src="https://camo.githubusercontent.com/68747470733a2f2f692e696d6775722e636f6d2f31546f574557772e706e67" width="380px"/>
-</td>
-</tr>
-</table>
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=arshraj1020&theme=onedark&no-bg=true&row=1&margin-w=15&column=7" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+<details>
+<summary><b>🚦 AI-Powered Traffic Incident Analysis System</b> — Python, PyTorch, YOLOv8, OpenCV</summary>
+<br>
+
+Real-time accident/vehicle/pedestrian detection and tracking from dashcam footage using YOLOv8 + ByteTrack, with auto-generated incident reports (accident type, object counts, severity insights). Currently being extended for accident severity prediction.
+
+🔗 [github.com/arshraj1020/road-incident-detection-system](https://github.com/arshraj1020/road-incident-detection-system)
+</details>
+
+<details>
+<summary><b>🩺 Multiple Disease Prediction System</b> — Python, Streamlit, Scikit-learn, XGBoost</summary>
+<br>
+
+A Streamlit app that predicts diabetes, heart disease, and Parkinson's using trained ML classifiers (XGBoost, Random Forest), with a simple UI for non-technical users to get real-time predictions.
+
+🔗 [github.com/arshraj1020/multiple-disease-prediction](https://github.com/arshraj1020/multiple-disease-prediction)
+</details>
+
+<details>
+<summary><b>🛠️ Enhanced Workshop Booking System</b> — React, HTML, CSS, Bootstrap (FOSSEE, IIT Bombay)</summary>
+<br>
+
+Redesigned the FOSSEE Workshop Booking System UI/UX as a task for IIT Bombay — a responsive, mobile-first React + Bootstrap interface that reduced booking flow steps while staying compatible with the existing Django backend.
+
+🔗 [github.com/arshraj1020/workshop_booking](https://github.com/arshraj1020/workshop_booking)
+</details>
 
 ---
 
@@ -62,12 +98,6 @@ I love building **real-world applications**, solving **DSA problems**, and writi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsh-raj-a763322a4/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:officialarshraj@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/arshraj1020/)
-
----
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=arshraj1020&limit=5&theme=github_dark)
 
 ---
 
