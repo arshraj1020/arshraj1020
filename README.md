@@ -14,19 +14,25 @@
 
 ## 👋 Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm **Arsh Raj**, a **Computer Science student**, **Java Backend Developer**, and **Machine Learning enthusiast** from **India 🇮🇳**.
-
+I'm **Arsh Raj**, a **Computer Science (AI & ML) student**, **Java Backend Developer**, and **Machine Learning enthusiast** from **India 🇮🇳**.
 I love building **real-world applications**, solving **DSA problems**, and writing **clean, scalable Java code**.
+
+🔬 **Currently exploring:** Speech enhancement using deep learning (CNN, RNN, Autoencoders) and computer-vision-based traffic incident analysis with YOLOv8.
 
 🎯 **Goal:** Become a strong **Java backend engineer** working on **large-scale impactful systems**.
 
 ---
 
 ## 🛠 Knowledge & Skills
+
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
@@ -39,15 +45,10 @@ I love building **real-world applications**, solving **DSA problems**, and writi
 <table>
 <tr>
 <td width="55%">
-
 <img src="https://github-readme-stats.vercel.app/api?username=arshraj1020&theme=github_dark&include_all_commits=true&count_private=true" />
-
 <img src="https://streak-stats.demolab.com?user=arshraj1020&theme=github-dark&hide_border=true" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshraj1020&theme=github_dark&layout=compact" />
-
 </td>
-
 <td width="45%" align="center">
 <img src="https://camo.githubusercontent.com/68747470733a2f2f692e696d6775722e636f6d2f31546f574557772e706e67" width="380px"/>
 </td>
@@ -57,18 +58,20 @@ I love building **real-world applications**, solving **DSA problems**, and writi
 ---
 
 ## 🌐 Socials
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsh-raj-a763322a4/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:officialarshraj1020@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/__arsh_raj/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:officialarshraj@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/arshraj1020/)
 
 ---
 
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=arshraj1020&limit=5&theme=github_dark)
 
 ---
 
-**"Consistency beats talent when talent doesn’t work hard."**
+**"Consistency beats talent when talent doesn't work hard."**
 
 ---
 
