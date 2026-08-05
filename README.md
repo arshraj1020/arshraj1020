@@ -64,7 +64,7 @@ I'm **Arsh Raj**, a **Java Backend Developer** and final-year **B.Tech CSE (AI &
 
 Secure, service-oriented Spring Boot backend connecting users with lawyers. Layered MVC design with SOLID principles, JWT authentication + BCrypt hashing, centralised exception handling, Swagger-documented REST APIs, and a Dockerized, normalised MySQL schema for reproducible builds and low-latency responses.
 
-🔗 [Live Demo](#) | [GitHub](https://github.com/arshraj1020)
+🔗 [Live Demo](https://vakil-connect-sage.vercel.app/) | [GitHub](https://github.com/arshraj1020/vakil-connect)
 </details>
 
 <details>
