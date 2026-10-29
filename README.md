@@ -20,7 +20,7 @@ I'm **Arsh Raj**, a **Java Backend Developer** and final-year **B.Tech CSE (AI &
 
 🔬 **Also explored:** Computer vision pipelines (YOLOv8, OpenCV) and action-recognition models as a Research Intern at **IIT Mandi**, plus RAG-based legal AI.
 
-🧮 **DSA:** 1000+ problems solved (350+ on LeetCode).
+🧮 **DSA:** 1000+ problems solved (450+ on LeetCode).
 
 🎯 **Goal:** Become a strong **Java backend engineer** working on large-scale, impactful systems.
 
