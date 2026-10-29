@@ -191,7 +191,6 @@ B.Tech in Computer Science and Engineering (AI & ML) · Aug 2023 – Present · 
 ## 🏆 Achievements & Leadership
 
 - Solved **1000+ DSA problems** (450+ on LeetCode)
-- Student Volunteer — TCS Campus Drive (2025): coordinated 4-day operations for 2000+ students
 - Open-source contributor maintaining multiple public GitHub repositories with branching and PR workflows
 
 ---
